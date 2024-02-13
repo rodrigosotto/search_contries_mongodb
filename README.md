@@ -11,5 +11,6 @@ Em caso de preferência pelo uso da minha base de dados, não há impedimentos. 
 
 # Instalar as bibliotecas (dependências)
 pip install pymongo python-dotenv requests datetime
+pip install matplotlib
 
 Jefferson Rodrigo Sotto
